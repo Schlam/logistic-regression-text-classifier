@@ -1,4 +1,4 @@
-# reddit-lsa-classifier
+# logistic-regression-text-classifier
 Scraping reddit text data and training a classification model to predict the the subreddit a post originated
 
 EDIT (02/05/2020):
