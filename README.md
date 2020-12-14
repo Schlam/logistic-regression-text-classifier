@@ -26,14 +26,3 @@ Their performace is compared below
 ### Logistic Regression Cross-Validation
 
 ![confusion_1](images/confusion_matrix_LogisticRegressionCV)
-
-A script-version of this code is also included,
-along with ```requirements.txt```
-
-To run this demo as a script, simply clone this repo
-and execute the following from your command line
-
-    pip install requirements.txt
-    python classify_subreddits.py
-
-Change the parameters in the ```parameters.py``` file if you'd like
