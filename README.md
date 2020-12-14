@@ -21,8 +21,8 @@ Their performace is compared below
 
 ### Random Forrest Classifier
 
-![confusion_1](images/confusion_matrix_RandomForestClassifier)
+![confusion_1](images/confusion_matrix_RandomForestClassifier.png)
 
 ### Logistic Regression Cross-Validation
 
-![confusion_1](images/confusion_matrix_LogisticRegressionCV)
+![confusion_1](images/confusion_matrix_LogisticRegressionCV.png)
