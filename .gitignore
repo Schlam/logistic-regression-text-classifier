@@ -4,6 +4,11 @@ requirments.txt
 # Private API keys
 config.py
 
+# In development
+front-end/
+devnbs/
+code/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
