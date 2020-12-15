@@ -1,4 +1,5 @@
-## Training a semantic classifier with Reddit data
+# Training a semantic classifier with Reddit data
+
 
 The following code pulls the 1000 newest posts from each designated subreddit,
 embeds each post using Tf-idf, and predicts the forum using logistic regression.
